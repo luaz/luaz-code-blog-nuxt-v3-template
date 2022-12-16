@@ -15,7 +15,7 @@ Setup via
 
 ## Features
 
-To simply the template coding, no css framework / library is used.
+To make template coding easy to read, no css framework / library is used.
 
 - Coding highlight
 - Tags / Tag Cloud
@@ -27,7 +27,7 @@ To simply the template coding, no css framework / library is used.
 ## Development
 
 ```bash
-npm run dev`
+npm run dev
 ```
 
 ## Static Deployment
